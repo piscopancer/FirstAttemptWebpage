@@ -1,0 +1,16 @@
+a {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7EB09B;
+    text-decoration: solid;
+    text-transform: uppercase;
+    transition: color 0.2s ease-out;
+}
+a:hover {
+    color: aliceblue;
+}
+
+body {
+    background-color: #476A6F;
+}
